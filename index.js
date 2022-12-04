@@ -46,6 +46,10 @@ function DrumClick(key){
       const audio7 = new Audio("sounds/tom-4.mp3");
        audio7.play();
       break;
+      case "f":
+        const audio8 = new Audio("sounds/epic.mp3");
+        audio8.play();
+        break;
     default:
 
   }
